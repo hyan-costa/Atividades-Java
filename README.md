@@ -3,9 +3,11 @@ Atividades de POO Do curso de Sistemas Para Internet
 
 
 
-IMC: 
+**IMC:** 
+Postem um aplicativo que realize o cálculo do IMC. O usuário deve informar nome, altura e peso. O app deve imprimir o valor do IMC e em qual a classificação.<br>
 
-Piramide:
+Use o link como referência: https://brasilescola.uol.com.br/educacao-fisica/Indice-massa-corporal-imc.htm
+**Piramide:**
   Crie uma classe chamada Pirâmide. Essa classe deve ter um método chamado desenhar que recebe um valor inteiro com parâmetro. Se o valor passado for 5,     seu método deve desenhar<br>
   *<br>
   **<br>
