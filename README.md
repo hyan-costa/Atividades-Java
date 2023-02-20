@@ -2,7 +2,6 @@
 Atividades de POO Do curso de Sistemas Para Internet
 
 
-<br>
 **IMC:**<br>
 Postem um aplicativo que realize o cálculo do IMC. O usuário deve informar nome, altura e peso. O app deve imprimir o valor do IMC e em qual a classificação.<br>
 
@@ -34,6 +33,23 @@ Crie um classe chamada Vetor. Essa classe deve ter uma variável de instância u
 
 
 **Matriz:**<br>
-Crie uma classe chamada Matriz. Essa classe deve possuir um método chamado void desenhar(int num). Quando esse método for chamado este deve desenhar uma matriz de acordo com o número passado (observe a imagem para esclarecimentos).
+Crie uma classe chamada Matriz. Essa classe deve possuir um método chamado void desenhar(int num). Quando esse método for chamado este deve desenhar uma matriz de acordo com o número passado (observe a imagem para esclarecimentos).<br>
+*exemplo:*<br>
+5x5<br>
+* * * * *<br>
+*   *   *<br>
+* * * * *<br>
+*   *   *<br>
+* * * * *<br>
+
+7x7:<br>
+* * * * * * *<br>
+*     *     *<br>
+*     *     *<br>
+* * * * * * *<br>
+*     *     *<br>
+*     *     *<br>
+* * * * * * *<br>
+
 Crie uma classe chamada Auxilia. Essa classe deve ter um método int obterNumero(), cuja finalidade é obter o número digitado pelo usuário.
 Crie uma classe chamada Principal. No método main, crie um objeto da classe Auxilia e chame o método obterNúmero e guarde em uma variável chamada entrada do tipo int. Depois crie um objeto da classe Matriz e chame o método desenhar e passe para o método a variável entrada.
