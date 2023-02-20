@@ -44,8 +44,8 @@ Crie uma classe chamada Matriz. Essa classe deve possuir um método chamado void
 
 7x7:<br>
 *******<br>
-*  *  *<br>
-*  *  *<br>
+* *  *<br>
+* *  *<br>
 *******<br>
 *  *  *<br>
 *  *  *<br>
